@@ -4,7 +4,7 @@ Randomly masks a percentage(default 50%) of words in a given text by replacing t
 Simple code for simple solutions, may become handy. Copy, modify code freely.
 
 ```
-Copy Scrambler.class to your project.
+Copy Masker.class to your project.
 ```
 
 ```
